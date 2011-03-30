@@ -55,6 +55,10 @@ Erlang/OTP 独習会
 
   - Ruby の変数がアトムに見え始めています
 
+- @hide5stm
+
+  - Cがつらい軟弱者ゆえ
+
 Erlang Programming
 ==================
 
