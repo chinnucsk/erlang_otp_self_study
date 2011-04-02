@@ -10,7 +10,7 @@ Erlang/OTP 独習会
 ====
 
 - Erlang Programming (日本語もある)
-- Erlang/OTP in Action (英語しかない)
+- Erlang and OTP in Action (英語しかない)
 
 上記二冊を元にプレゼン＋ハンズオン形式で進めていきます。
 
