@@ -59,6 +59,10 @@ Erlang/OTP 独習会
 
   - Cがつらい軟弱者ゆえ
 
+- @cocoatomo
+
+  - Erlang Programmer の Wannabe です
+
 Erlang Programming
 ==================
 
