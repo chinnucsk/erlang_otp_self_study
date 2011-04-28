@@ -63,6 +63,10 @@ Erlang/OTP 独習会
 
   - Erlang Programmer の Wannabe です
 
+- @_2F_1
+
+  - 家事と育児の並列に悩んでいます
+
 Erlang Programming
 ==================
 
