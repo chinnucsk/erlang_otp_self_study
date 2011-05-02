@@ -67,6 +67,10 @@ Erlang/OTP 独習会
 
   - 家事と育児の並列に悩んでいます
 
+- @ksauzz
+
+  - Erlangと戯れたいです
+
 Erlang Programming
 ==================
 
