@@ -93,8 +93,8 @@ Erlang Programming
   15. Socket Programming
   16. Interfacing Erlang with Other Programming Languages
   17. Trace BIFs, the dbg Tracer, and Match Specifications
-  18. Types and Documentation
-  19. EUnit and Test-Driven Development
+  18. Types and Documentation <- @cocoatomo 希望
+  19. EUnit and Test-Driven Development <- @cocoatomo 希望
   20. Style and Efficiency
 
 Erlang and OTP in Action
