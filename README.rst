@@ -3,14 +3,14 @@ Erlang/OTP 独習会
 #################
 
 :主催: @jbking, @voluntas
-:日時: 未定
-:場所: 未定
+:日時: 5/21(土) 9:30--12:00
+:場所: 赤坂溜池タワー 13F デモルーム C (東京都港区赤坂２丁目１７−７)
 
 概要
 ====
 
 - Erlang Programming (日本語もある)
-- Erlang/OTP in Action (英語しかない)
+- Erlang and OTP in Action (英語しかない)
 
 上記二冊を元にプレゼン＋ハンズオン形式で進めていきます。
 
@@ -32,6 +32,8 @@ Erlang/OTP 独習会
 参加方法
 ========
 
+**参加する際にErlang を知ってると楽かも知れませんが、知ってる必要はありません**
+
 参加予定者と自己紹介欄を埋めて、pull-request ください。それが merge されたら登録完了です。
 
 参加予定者
@@ -52,6 +54,22 @@ Erlang/OTP 独習会
 - @itawasa
 
   - Ruby の変数がアトムに見え始めています
+
+- @hide5stm
+
+  - Cがつらい軟弱者ゆえ
+
+- @cocoatomo
+
+  - Erlang Programmer の Wannabe です
+
+- @_2F_1
+
+  - 家事と育児の並列に悩んでいます
+
+- @ksauzz
+
+  - Erlangと戯れたいです
 
 Erlang Programming
 ==================
