@@ -1,0 +1,3 @@
+git remote add upstream git://github.com/voluntas/erlang_otp_self_study.git
+git fetch upstream
+git merge upstream/develop
